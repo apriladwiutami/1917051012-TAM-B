@@ -23,7 +23,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="8dp"
-                android:text="@string/_6_photos"
+                android:text="6 Photos"
                 android:gravity="center_vertical"
                 android:drawableLeft="@drawable/ic_collections_white_18dp"
                 android:drawablePadding="4dp"
@@ -38,7 +38,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="32sp"
-            android:text="@string/_735"
+            android:text="$735"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
             android:layout_marginTop="@dimen/activity_vertical_margin"
@@ -47,12 +47,11 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/stock_hanya_5_buah"
+            android:text="Stock hanya 5 buah"
             android:textSize="12sp"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_marginBottom="@dimen/activity_vertical_margin"
-            android:textColor="@android:color/darker_gray"/>
+            android:layout_marginBottom="@dimen/activity_vertical_margin"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -65,12 +64,11 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/spesifikasi"
+            android:text="Spesifikasi"
             android:textSize="12sp"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_marginBottom="8dp"
-            android:textColor="@android:color/darker_gray"/>
+            android:layout_marginBottom="8dp"/>
         <TableLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -86,8 +84,7 @@
                     android:layout_height="wrap_content"
                     android:textSize="14sp"
                     android:layout_marginRight="@dimen/activity_vertical_margin"
-                    android:text="@string/display"
-                    android:textColor="@android:color/darker_gray"/>
+                    android:text="Display"/>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -105,8 +102,7 @@
                     android:layout_height="wrap_content"
                     android:textSize="14sp"
                     android:layout_marginRight="@dimen/activity_vertical_margin"
-                    android:text="@string/size"
-                    android:textColor="@android:color/darker_gray"/>
+                    android:text="Size"/>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -124,8 +120,7 @@
                     android:layout_height="wrap_content"
                     android:textSize="14sp"
                     android:layout_marginRight="@dimen/activity_vertical_margin"
-                    android:text="@string/battery"
-                    android:textColor="@android:color/darker_gray"/>
+                    android:text="Battery"/>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -138,12 +133,11 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/dijual_oleh"
+            android:text="Dijual oleh"
             android:textSize="12sp"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_marginBottom="8dp"
-            android:textColor="@android:color/darker_gray"/>
+            android:layout_marginBottom="8dp"/>
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -161,14 +155,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_toRightOf="@id/profile_image"
-                android:text="@string/narenda_wicaksono"
+                android:text="Narenda Wicaksono"
                 android:textColor="@android:color/black"
                 android:layout_centerVertical="true"/>
         </RelativeLayout>
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/beli"
+            android:text="Beli"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
             android:layout_marginBottom="@dimen/activity_vertical_margin"/>
